@@ -65,6 +65,14 @@ Then enter the following when prompted:
 streamlit run app.py
 ```
 
+## 📸 Screenshots
+1. Home Screen – PDF Upload
+![Home Screen](./assets/home.png)
+
+2. Mistral Answer Output
+![Mistral Answer](./assets/answer.png)
+
+
 
 
 
